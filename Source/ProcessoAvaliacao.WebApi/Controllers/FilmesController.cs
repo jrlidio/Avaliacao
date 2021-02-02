@@ -26,7 +26,7 @@ namespace ProcessoAvaliacao.WebApi.Controllers
         }
 
         /// <summary>
-        /// Pesquisa por filmes.
+        /// Pesquisa por filmes - teste.
         /// </summary>
         /// <param name="filmesGet">
         ///     Criterios de pesquisa na base de filmes.
